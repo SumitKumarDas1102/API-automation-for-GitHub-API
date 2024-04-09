@@ -1,0 +1,22 @@
+{
+  "name": "api-automation-test-for-github",
+  "version": "1.0.0",
+  "description": "API automation test for GitHub",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SumitKumarDas1102/API-automation-for-GitHub-API.git"
+  },
+  "author": "Sumit",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SumitKumarDas1102/API-automation-for-GitHub-API/issues"
+  },
+  "homepage": "https://github.com/SumitKumarDas1102/API-automation-for-GitHub-API#readme",
+  "devDependencies": {
+    "cypress": "^13.7.2"
+  }
+}
